@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tomato-clock/static/css/main.3eb55b03.css",
+    "main.js": "/tomato-clock/static/js/main.cb0292f7.js",
+    "index.html": "/tomato-clock/index.html",
+    "main.3eb55b03.css.map": "/tomato-clock/static/css/main.3eb55b03.css.map",
+    "main.cb0292f7.js.map": "/tomato-clock/static/js/main.cb0292f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3eb55b03.css",
+    "static/js/main.cb0292f7.js"
+  ]
+}
